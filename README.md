@@ -16,6 +16,9 @@ Make your move, challenge the computer, and see who reigns supreme in the ultima
 
 ---
 
+## Demo:
+https://zaac360.github.io/Rock-Paper-Scissors-Game-with-Clean-UI/
+
 ## Features
 
 - **Emoji Hand Icons** — Beautiful hand buttons in bold circular frames
@@ -51,7 +54,8 @@ Rock-Paper-Scissors-Game-with-Clean-UI/
 
 ## Preview
 
-![Game Preview](preview.png)
+![Game Preview]<img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/4f2f6d23-1cce-45a9-b3ee-606c07eeac6b" />
+
 
 > *Light grey canvas. Three bold circular buttons. Clean score display. Nothing in the way of the fun.*
 
