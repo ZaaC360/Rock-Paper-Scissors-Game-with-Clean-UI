@@ -19,6 +19,8 @@ Make your move, challenge the computer, and see who reigns supreme in the ultima
 ## Demo:
 https://zaac360.github.io/Rock-Paper-Scissors-Game-with-Clean-UI/
 
+---
+
 ## Features
 
 - **Emoji Hand Icons** — Beautiful hand buttons in bold circular frames
