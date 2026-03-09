@@ -56,7 +56,7 @@ Rock-Paper-Scissors-Game-with-Clean-UI/
 
 ## Preview
 
-![Game Preview]<img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/4f2f6d23-1cce-45a9-b3ee-606c07eeac6b" />
+<img width="1920" height="1080" alt="Screenshot (60)" src="https://github.com/user-attachments/assets/4f2f6d23-1cce-45a9-b3ee-606c07eeac6b" />
 
 
 > *Light grey canvas. Three bold circular buttons. Clean score display. Nothing in the way of the fun.*
